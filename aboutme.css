@@ -25,13 +25,14 @@
   background:radial-gradient(rgba(111, 242, 170,0.05), rgba(111, 242, 170,0.9));
   height:60vh;
   position:absolute;
+  top:7vh;
   left:0vw;
   right:0vw;
   width:100vw;
   text-align:center;
 }
 #main_header_title{
-  font-size: 20vh;
+  font-size: 15vh;
   font-family: 'Palantino';
   font-weight: bold;
   padding-left:15vw;
@@ -40,7 +41,7 @@
   padding-bottom: 5vh;
 }
 #main_header_text{
-  font-size: 10vh;
+  font-size: 5vh;
   font-family: 'Palantino';
   font-style:italic;
   padding-left:10vw;
