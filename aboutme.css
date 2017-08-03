@@ -13,13 +13,13 @@
   width:20vw;
   padding:0;
   text-align:left;
-  top:0.2vh;
 }
 #menu_text{
   color: #ffffff;
   font-size: 2.3vh;
   font-family: 'Palantino';
   font-weight: bold;
+  top:0.2vh;
 }
 #menu_img{
 }
@@ -27,13 +27,14 @@
   background:radial-gradient(rgba(111, 242, 170,0.05), rgba(111, 242, 170,0.9));
   height:60vh;
   position:relative;
-  top:7vh;
+  top:5vh;
   left:0vw;
   right:0vw;
   width:100vw;
   text-align:center;
 }
 #main_header_title{
+  padding-top:5vh;
   font-size: 10vh;
   font-family: 'Palantino';
   font-weight: bold;
