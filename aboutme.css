@@ -47,17 +47,18 @@
 /*   font-style:italic; */
   padding-left:10vw;
   padding-right:10vw;
+  color: rgba(0,0,0,0.8);
 }
 .options{
-  position: relative;
-  top:8vh;
+  position: absolute;
+  top:70vh;
   width:100vw;
   height:30vh;
   text-align:center;
 }
 .options_section{
   float:left;
-  width:24.7vw;
+  width:24.6vw;
   background:radial-gradient(rgba(111, 242, 170,0.05), rgba(111, 242, 170,0.9));
   border-radius: 50%;
   text-align: center;
