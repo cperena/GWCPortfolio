@@ -27,7 +27,7 @@
   background:radial-gradient(rgba(111, 242, 170,0.05), rgba(111, 242, 170,0.9));
   height:60vh;
   position:relative;
-  top:6.4vh;
+  top:6.7vh;
   left:0vw;
   right:0vw;
   width:100vw;
@@ -50,7 +50,7 @@
 }
 .options{
   position: relative;
-  top:10vh;
+  top:2vh;
   width:100vw;
   height:30vh;
   text-align:center;
