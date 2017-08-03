@@ -50,14 +50,14 @@
 }
 .options{
   position: relative;
-  /*top:70vh;*/
+  top:10vh;
   width:100vw;
   height:30vh;
   text-align:center;
 }
 .options_section{
   float:left;
-  width:25vw;
+  width:24.5vw;
   background:radial-gradient(rgba(111, 242, 170,0.05), rgba(111, 242, 170,0.9));
   border-radius: 50%;
   text-align: center;
