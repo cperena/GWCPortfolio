@@ -12,10 +12,12 @@
   width:20vw;
   padding:0;
   text-align:right;
+  position: fixed;
+  top:1vh;
 }
 #menu_text{
-  font-color: #ff0000;
-  font-size: 5vh;
+  font-color: #ffffff;
+  font-size: 3vh;
   font-family: 'Palantino';
   font-weight: bold;
 }
@@ -32,20 +34,16 @@
   text-align:center;
 }
 #main_header_title{
-  font-size: 15vh;
+  font-size: 10vh;
   font-family: 'Palantino';
   font-weight: bold;
   padding-left:15vw;
   padding-right:15vw;
-  padding-top: 5vh;
-  padding-bottom: 5vh;
 }
 #main_header_text{
-  font-size: 5vh;
+  font-size: 3vh;
   font-family: 'Palantino';
   font-style:italic;
   padding-left:10vw;
   padding-right:10vw;
-  padding-bottom:5vh;
-  padding-top:5vh;
 }
