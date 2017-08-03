@@ -48,3 +48,24 @@
   padding-left:10vw;
   padding-right:10vw;
 }
+.options{
+  position: relative;
+  top:70vh;
+  width:100vw;
+  height:30vh;
+  text-align:center;
+}
+.options_section{
+  float:left;
+  width:25vw;
+  background:radial-gradient(rgba(111, 242, 170,0.05), rgba(111, 242, 170,0.9));
+  border-radius: 50%;
+  text-align: center;
+}
+
+#options_text{
+  font-size: 4vh;
+  font-family: 'Palantino';
+  font-weight:bold;
+}
+
