@@ -44,7 +44,7 @@
 #main_header_text{
   font-size: 3vh;
   font-family: 'Palantino';
-/*   font-style:italic; */
+  font-style:italic;
   padding-left:10vw;
   padding-right:10vw;
   color: rgba(0,0,0,0.8);
