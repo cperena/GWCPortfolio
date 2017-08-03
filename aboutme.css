@@ -17,7 +17,7 @@
 }
 #menu_text{
   color: #ffffff;
-  font-size: 2vh;
+  font-size: 2.3vh;
   font-family: 'Palantino';
   font-weight: bold;
 }
@@ -26,7 +26,7 @@
 .main_header{
   background:radial-gradient(rgba(111, 242, 170,0.05), rgba(111, 242, 170,0.9));
   height:60vh;
-  position:static;
+  position:relative;
   top:7vh;
   left:0vw;
   right:0vw;
